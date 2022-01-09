@@ -6,10 +6,10 @@
 
 ## Sobre mim
 
-<a href="https://www.linkedin.com/in/jeferson-sabino-aa6664184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a><a href="https://github.com/JefersonTaiyou/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a></a>
+<a href="https://www.linkedin.com/in/jeferson-ss-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a><a href="https://github.com/JefersonTaiyou/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a></a>
 <a href="https://mail.google.com/mail/u/0/" target="_blank"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
 
- - Perfil [Linkedin] (https://www.linkedin.com/in/jeferson-sabino-aa6664184/)
+ - Perfil [Linkedin] (https://www.linkedin.com/in/jeferson-ss-junior)
 
  - Contato [email] (jeferson.taiyou@gmail.com)
 
@@ -60,6 +60,8 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
 <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" alt="aftereffects" title="After Effects" style="max-width: 100%;" width="40" height="40" align="middle">
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="premiere" title="Premiere" style="max-width: 100%;" width="40" height="40" align="middle">
+  
+<img src="https://github.com/Harindulk/harindu.dev/blob/main/assets/icons/unity.svg" alt="unity" title="Unity" style="max-width: 100%;" width="40" height="40" align="middle">
   
 </div>
 
