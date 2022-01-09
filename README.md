@@ -23,7 +23,7 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
   <a href="https://github.com/JefersonTaiyou" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefersonTaiyou&show_icons=true&title_color=fff&icon_color=790097&text_color=9f9f9f&bg_color=000000"/></a>
   <a href="https://github.com/JefersonTaiyou" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&title_color=fff&layout=compact&theme=midnight-purple"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&layout=compact&theme=midnight-purple"/></a>
 </div>
 
 ## 🛠 Ferramentas/Linguagens que eu conheço || &nbsp;Skills 🛠 
