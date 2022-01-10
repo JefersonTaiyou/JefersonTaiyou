@@ -59,7 +59,7 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" title="Illustrator" style="max-width: 100%;" width="40" height="40" align="middle">
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" alt="aftereffects" title="After Effects" style="max-width: 100%;" width="40" height="40" align="middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" title="After Effects" style="max-width: 100%;" width="40" height="40" align="middle">
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="premiere" title="Premiere" style="max-width: 100%;" width="40" height="40" align="middle">
   
