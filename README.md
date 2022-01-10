@@ -6,8 +6,8 @@
 
 ## Sobre mim
 
-<a href="https://www.linkedin.com/in/jeferson-ss-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a><a href="https://github.com/JefersonTaiyou/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a></a>
-<a href="https://mail.google.com/mail/u/0/" target="_blank"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/jeferson-ss-junior"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/JefersonTaiyou/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a></a>
+<a href="https://mail.google.com/mail/u/0/"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
  - Perfil [Linkedin]: (https://www.linkedin.com/in/jeferson-ss-junior)
 
@@ -20,9 +20,9 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
  ## ⚙️ &nbsp;Status GitHub
 
 <div>
-  <a href="https://github.com/JefersonTaiyou" target="_blank">
+  <a href="https://github.com/JefersonTaiyou">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefersonTaiyou&show_icons=true&title_color=fff&icon_color=790097&text_color=9f9f9f&bg_color=000000"/></a>
-  <a href="https://github.com/JefersonTaiyou" target="_blank">
+  <a href="https://github.com/JefersonTaiyou">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&layout=compact&theme=midnight-purple"/></a>
 </div>
 
