@@ -35,7 +35,7 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="max-width: 100%;" width="40" height="40" align="middle">
  
-<img src="https://github.com/Harindulk/harindu.dev/blob/main/assets/icons/unity.svg" alt="unity" title="Unity" style="max-width: 100%;" width="40" height="40" align="middle">
+<img src="https://raw.githubusercontent.com/Harindulk/harindu.dev/main/assets/icons/unity.svg" alt="unity" title="Unity" style="max-width: 100%;" width="40" height="40" align="middle">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" style="max-width: 100%;" width="40" height="40" align="middle">
   
@@ -49,19 +49,19 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" style="max-width: 100%;" width="40" height="40" align="middle">
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm" style="max-width: 100%;" width="40" height="40" align="middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm" style="max-width: 100%;" width="40" height="40" align="middle">
 
 <img src="https://camo.githubusercontent.com/aa0e4ed5f01fb902f1405feb0a9baa285076a5b981e4323267c6b9977aa1d9fb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f76697375616c73747564696f5f636f64652f76697375616c73747564696f5f636f64652d69636f6e2e737667" alt="visualstudio_code-github-profile-awesome-beautiful" title="VSCode" style="max-width: 100%;" width="40" height="40" align="middle">
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".net" title=".NET" style="max-width: 100%;" width="40" height="40" align="middle">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".net" title=".NET" style="max-width: 100%;" width="40" height="40" align="middle">  
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" title="Photoshop" style="max-width: 100%;" width="40" height="40" align="middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" title="Photoshop" style="max-width: 100%;" width="40" height="40" align="middle">
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" title="Illustrator" style="max-width: 100%;" width="40" height="40" align="middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" title="Illustrator" style="max-width: 100%;" width="40" height="40" align="middle">
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" title="After Effects" style="max-width: 100%;" width="40" height="40" align="middle">
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="premiere" title="Premiere" style="max-width: 100%;" width="40" height="40" align="middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premiere" title="Premiere" style="max-width: 100%;" width="40" height="40" align="middle">
   
 </div>
 
