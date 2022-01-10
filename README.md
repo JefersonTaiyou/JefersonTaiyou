@@ -26,7 +26,7 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&layout=compact&theme=midnight-purple"/></a>
 </div>
 
-## 🛠 Ferramentas/Linguagens que eu conheço || &nbsp;Skills 🛠 
+## 🛠 Ferramentas/Linguagens que eu conheço || &nbsp;STACKS 🛠 
   
 <div style="display: inline_block">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" style="max-width: 100%;" width="40" height="40" align="middle"> 
