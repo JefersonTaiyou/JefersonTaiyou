@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;Sou estudante do 3º semestre de Jogos Digitais pela **Fatec Carapicuiba!**
 &nbsp;Apaixonado pela área de programação desde quando fiz meu Técnico em Informática no ITB.
-<br>&nbsp;&nbsp;&nbsp;Atualmente aprimorando meus conhecimentos na área a cada dia, estudando linguagens e frameworks tais como **(HTML 5, CSS 3, JavaScript, Java, C#, Pyton, SQL, entre outros).**
+<br>&nbsp;&nbsp;&nbsp;Atualmente aprimorando meus conhecimentos na área a cada dia, estudando linguagens e frameworks tais como **(HTML 5, CSS 3, JavaScript, Java, C#, Python, SQL, entre outros).**
 
 ## Sobre mim
 
