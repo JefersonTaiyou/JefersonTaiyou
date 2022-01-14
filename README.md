@@ -1,5 +1,8 @@
 <h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&color=blueviolet" alt="Visitas ao Perfil" /> <br>Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu me chamo Jeferson! </h1>
 
+[Read this page in English](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README-EN.md)<br>
+[Leia esta página em Português](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README.md)<br>
+
 &nbsp;&nbsp;&nbsp;Sou estudante do 3º semestre de Jogos Digitais pela **Fatec Carapicuiba!**
 &nbsp;Apaixonado pela área de programação desde quando fiz meu Técnico em Informática no ITB.
 <br>&nbsp;&nbsp;&nbsp;Atualmente aprimorando meus conhecimentos na área a cada dia, estudando linguagens e frameworks tais como **(HTML 5, CSS 3, JavaScript, Java, C#, Python, SQL, entre outros).**
@@ -26,7 +29,7 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&layout=compact&theme=midnight-purple"/></a>
 </div>
 
-## 🛠 Ferramentas/Linguagens que eu conheço || &nbsp;STACKS 🛠 
+## 🛠 Ferramentas/Linguagens || &nbsp;STACKS 🛠 
   
 <div style="display: inline_block">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" style="max-width: 100%;" width="40" height="40" align="middle"> 
