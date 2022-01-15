@@ -69,3 +69,7 @@ Currently focused on Game development, but I'm interested in becoming a Full-Sta
 </div>
 
 --------------------------------------
+
+![Snake animation](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/output/github-contribution-grid-snake.svg)
+
+##
