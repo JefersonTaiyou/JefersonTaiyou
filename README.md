@@ -69,3 +69,7 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
 </div>
 
 --------------------------------------
+
+![Snake animation](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/output/github-contribution-grid-snake.svg)
+
+##
