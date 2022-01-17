@@ -1,11 +1,35 @@
-<h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&color=blueviolet" alt="Visitas ao Perfil" /> <br>Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Jeferson! </h1>
+<h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&color=blueviolet" alt="Visitas ao Perfil" /> 
+<a href="https://github.com/JefersonTaiyou/JefersonTaiyou/issues">
+ <img src="https://img.shields.io/github/issues/JefersonTaiyou/JefersonTaiyou" title="issues" alt="issues" /> 
+</a>
+<a href="https://github.com/JefersonTaiyou/JefersonTaiyou/network/members">
+ <img src="https://img.shields.io/github/forks/JefersonTaiyou/JefersonTaiyou" title="forks" alt="forks" /> 
+</a>
+<a href="https://github.com/JefersonTaiyou/JefersonTaiyou/stargazers">
+ <img src="https://img.shields.io/github/stars/JefersonTaiyou/JefersonTaiyou" title="stars" alt="stars" /> 
+</a><br>
+ Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Jeferson! <a href="https://github.com/JefersonTaiyou">
+    <img src="https://img.shields.io/github/followers/JefersonTaiyou?label=follow&style=social" height="22" title="Follow" align="center" alt="GitHub">
+</a></h1>
+ 
+<details title="Jeferson's Trophies">
+    <br />
+    <summary align="left"><strong><i>Jeferson's Trophies</i></strong> 🏆</summary>
+    <p align="left">
+        <img 
+             src="https://github-profile-trophy.vercel.app/?username=JefersonTaiyou&column=8&theme=gruvbox&margin-w=4&&margin-h=4&no-frame=true" 
+             width="100%"
+             title="Meus Trofeus"
+        />
+    </p>
+</details>
 
 [Read this page in English](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README-EN.md)<br>
 [Leia esta página em Português](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README.md)<br>
 
 &nbsp;&nbsp;&nbsp;I am a 3rd semester student of Digital Games at **Fatec Carapicuiba!**
 &nbsp;Passionate about the programming area since when I started my IT Technician at ITB.
-<br>&nbsp;&nbsp;&nbsp;Currently improving my knowledge in the area every day, studying languages ​​and frameworks such as **(HTML 5, CSS 3, JavaScript, Java, C#, Python, SQL, among others).**
+<br>&nbsp;&nbsp;&nbsp;Currently improving my knowledge in the area every day, studying languages and frameworks such as **(HTML 5, CSS 3, JavaScript, Java, C#, Python, SQL, among others).**
 
 ## About Me
 
