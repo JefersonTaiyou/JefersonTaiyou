@@ -1,21 +1,27 @@
-<h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&color=blueviolet" alt="Visitas ao Perfil" /> 
+<h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&label=Visitas%20Perfil&color=0e75b6&style=flat" alt="Visitas ao Perfil" width="150" height="28"/>
 <a href="https://github.com/JefersonTaiyou/JefersonTaiyou/issues">
- <img src="https://img.shields.io/github/issues/JefersonTaiyou/JefersonTaiyou" title="issues" alt="issues" /> 
+ <img src="https://img.shields.io/github/issues/JefersonTaiyou/JefersonTaiyou" title="issues" alt="issues" width="130" height="28"/> 
 </a>
 <a href="https://github.com/JefersonTaiyou/JefersonTaiyou/network/members">
- <img src="https://img.shields.io/github/forks/JefersonTaiyou/JefersonTaiyou" title="forks" alt="forks" /> 
+ <img src="https://img.shields.io/github/forks/JefersonTaiyou/JefersonTaiyou" title="forks" alt="forks" width="85" height="28"/> 
 </a>
 <a href="https://github.com/JefersonTaiyou/JefersonTaiyou/stargazers">
- <img src="https://img.shields.io/github/stars/JefersonTaiyou/JefersonTaiyou" title="stars" alt="stars" /> 
+ <img src="https://img.shields.io/github/stars/JefersonTaiyou/JefersonTaiyou" title="stars" alt="stars" width="85" height="28"/> 
 </a><br>
  Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu me chamo Jeferson! <a href="https://github.com/JefersonTaiyou">
     <img src="https://img.shields.io/github/followers/JefersonTaiyou?label=Seguir&style=social" height="22" title="Seguir" align="center" alt="GitHub">
 </a></h1>
  
+ 
+<p align="center">
+   <img title="Streak" alt="JefersonTaiyou's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JefersonTaiyou&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JefersonTaiyou&theme=github_dark"/>
+</p>
+ 
 <details title="Meus-trofeus">
     <br />
     <summary align="left"><strong><i>Meus Troféus</i></strong> 🏆</summary>
-    <p align="left">
+    <p align="center">
         <img 
              src="https://github-profile-trophy.vercel.app/?username=JefersonTaiyou&column=8&theme=gruvbox&margin-w=4&&margin-h=4&no-frame=true" 
              width="100%"
@@ -47,10 +53,9 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
 
  ## ⚙️ &nbsp;Status GitHub
 
-<div>
+<div align="center">
   <a href="https://github.com/JefersonTaiyou">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JefersonTaiyou&show_icons=true&title_color=fff&icon_color=790097&text_color=9f9f9f&bg_color=000000"/></a>
-  <a href="https://github.com/JefersonTaiyou">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JefersonTaiyou&show_icons=true&title_color=fff&icon_color=790097&text_color=9f9f9f&bg_color=000000&theme=github"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&layout=compact&theme=midnight-purple"/></a>
 </div>
 
@@ -94,7 +99,10 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
 </div>
 
 --------------------------------------
-
+<div align="center">
+ 
 ![Snake animation](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 ##
