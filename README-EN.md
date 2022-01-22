@@ -19,7 +19,7 @@
  
 <details title="Jeferson's Trophies">
     <br />
-    <summary align="left"><strong><i>Meus Troféus</i></strong> 🏆</summary>
+    <summary align="left"><strong><i>My Trophies</i></strong> 🏆</summary>
     <p align="center">
         <img 
              src="https://github-profile-trophy.vercel.app/?username=JefersonTaiyou&column=8&theme=darkhub&margin-w=4&&margin-h=4&no-frame=true" 
