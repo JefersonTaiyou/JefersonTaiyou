@@ -12,9 +12,10 @@
     <img src="https://img.shields.io/github/followers/JefersonTaiyou?label=Seguir&style=social" height="22" title="Seguir" align="center" alt="GitHub">
 </a></h1>
  
+ <!-- http://github-readme-streak-stats.herokuapp.com/demo/  [Site para modificar a cor da tabela de Streak] -->
  
 <p align="center">
-   <img title="Streak" alt="JefersonTaiyou's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JefersonTaiyou&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/>
+   <img title="Streak" alt="JefersonTaiyou's streak" src="http://github-readme-streak-stats.herokuapp.com?user=JefersonTaiyou&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JefersonTaiyou&theme=github_dark"/>
 </p>
  
