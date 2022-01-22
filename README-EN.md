@@ -19,13 +19,14 @@
  
 <details title="Jeferson's Trophies">
     <br />
-    <summary align="left"><strong><i>Jeferson's Trophies</i></strong> 🏆</summary>
-    <p align="left">
+    <summary align="left"><strong><i>Meus Troféus</i></strong> 🏆</summary>
+    <p align="center">
         <img 
-             src="https://github-profile-trophy.vercel.app/?username=JefersonTaiyou&column=8&theme=gruvbox&margin-w=4&&margin-h=4&no-frame=true" 
+             src="https://github-profile-trophy.vercel.app/?username=JefersonTaiyou&column=8&theme=darkhub&margin-w=4&&margin-h=4&no-frame=true" 
              width="100%"
              title="Meus Trofeus"
         />
+     <!--- https://github.com/ryo-ma/github-profile-trophy [Perfil com os temas e configurações dos troféus] --->
     </p>
 </details>
 
