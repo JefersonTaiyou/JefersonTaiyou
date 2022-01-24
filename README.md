@@ -13,7 +13,7 @@
 </a></h1>
  
  <!-- http://github-readme-streak-stats.herokuapp.com/demo/  [Site para modificar a cor da tabela de Streak] -->
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Rafael nunes">
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="JefersonTaiyou">
  
 <p align="left">
    <img title="Streak" alt="JefersonTaiyou's streak" src="http://github-readme-streak-stats.herokuapp.com?user=JefersonTaiyou&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="500px"/>
@@ -45,9 +45,9 @@
 <a href="https://github.com/JefersonTaiyou/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a></a>
 <a href="https://mail.google.com/mail/u/0/"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
- - Perfil [Linkedin]: **(https://www.linkedin.com/in/jeferson-ss-junior)**
+ - Perfil [Linkedin]: (**https://www.linkedin.com/in/jeferson-ss-junior**)
 
- - Contato [Email]: **(jeferson.taiyou@gmail.com)**
+ - Contato [Email]: (**jeferson.taiyou@gmail.com**)
 
  - Amo programar e estou sempre disposto a aprender novas tecnologias !
 
