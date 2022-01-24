@@ -32,8 +32,8 @@
     </p>
 </details>
 
-[Read this page in English](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README-EN.md)<br>
-[Leia esta página em Português](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README.md)<br>
+**[Read this page in English](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README-EN.md)<br>
+[Leia esta página em Português](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README.md)<br>**
 
 &nbsp;&nbsp;&nbsp;Sou estudante do 3º semestre de Jogos Digitais pela **Fatec Carapicuiba!**
 &nbsp;Apaixonado pela área de programação desde quando fiz meu Técnico em Informática no ITB.
