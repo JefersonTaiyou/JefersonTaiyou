@@ -11,10 +11,12 @@
  Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Jeferson! <a href="https://github.com/JefersonTaiyou">
     <img src="https://img.shields.io/github/followers/JefersonTaiyou?label=follow&style=social" height="22" title="Follow" align="center" alt="GitHub">
 </a></h1>
+
+ <!-- http://github-readme-streak-stats.herokuapp.com/demo/  [Site para modificar a cor da tabela de Streak] -->
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="JefersonTaiyou">
  
- <p align="center">
-<img title="Streak" alt="JefersonTaiyou's streak" src="http://github-readme-streak-stats.herokuapp.com?user=JefersonTaiyou&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JefersonTaiyou&theme=github_dark"/>
+<p align="left">
+   <img title="Streak" alt="JefersonTaiyou's streak" src="http://github-readme-streak-stats.herokuapp.com?user=JefersonTaiyou&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="500px"/>
 </p>
  
 <details title="Jeferson's Trophies">
@@ -55,9 +57,8 @@ Currently focused on Game development, but I'm interested in becoming a Full-Sta
 
 <div align="center">
   <a href="https://github.com/JefersonTaiyou">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JefersonTaiyou&show_icons=true&title_color=fff&icon_color=790097&text_color=9f9f9f&bg_color=000000"/></a>
-  <a href="https://github.com/JefersonTaiyou">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&layout=compact&theme=midnight-purple"/></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JefersonTaiyou&show_icons=true&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&layout=compact&theme=github_dark"/></a>
 </div>
 
 ## 🛠 Tools/Languages || &nbsp;STACKS 🛠 
@@ -102,6 +103,13 @@ Currently focused on Game development, but I'm interested in becoming a Full-Sta
 --------------------------------------
 
 <div align="center">
+ 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JefersonTaiyou&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JefersonTaiyou&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JefersonTaiyou&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JefersonTaiyou&theme=github_dark" />
+ 
+ <!--- https://github-profile-summary-cards.vercel.app/demo.html [Site para ver os temas do Profile Summary]--->
  
 ![Snake animation](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/output/github-contribution-grid-snake.svg)
  
