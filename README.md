@@ -1,12 +1,12 @@
 <h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&label=Visitas%20Perfil&color=0e75b6&style=flat" alt="Visitas ao Perfil" width="150" height="28"/>
 <a href="https://github.com/JefersonTaiyou/JefersonTaiyou/issues">
- <img src="https://img.shields.io/github/issues/JefersonTaiyou/JefersonTaiyou" title="issues" alt="issues" width="130" height="28"/> 
+ <img src="https://img.shields.io/github/issues/JefersonTaiyou/JefersonTaiyou" title="issues" alt="issues" width="115" height="28"/> 
 </a>
 <a href="https://github.com/JefersonTaiyou/JefersonTaiyou/network/members">
- <img src="https://img.shields.io/github/forks/JefersonTaiyou/JefersonTaiyou" title="forks" alt="forks" width="85" height="28"/> 
+ <img src="https://img.shields.io/github/forks/JefersonTaiyou/JefersonTaiyou" title="forks" alt="forks" width="80" height="28"/> 
 </a>
 <a href="https://github.com/JefersonTaiyou/JefersonTaiyou/stargazers">
- <img src="https://img.shields.io/github/stars/JefersonTaiyou/JefersonTaiyou" title="stars" alt="stars" width="85" height="28"/> 
+ <img src="https://img.shields.io/github/stars/JefersonTaiyou/JefersonTaiyou" title="stars" alt="stars" width="70" height="28"/> 
 </a><br>
  Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu me chamo Jeferson! <a href="https://github.com/JefersonTaiyou">
     <img src="https://img.shields.io/github/followers/JefersonTaiyou?label=Seguir&style=social" height="22" title="Seguir" align="center" alt="GitHub">
