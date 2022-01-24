@@ -1,12 +1,12 @@
 <h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="150" height="28"/>
 <a href="https://github.com/JefersonTaiyou/JefersonTaiyou/issues">
- <img src="https://img.shields.io/github/issues/JefersonTaiyou/JefersonTaiyou" title="issues" alt="issues" width="130" height="28"/> 
+ <img src="https://img.shields.io/github/issues/JefersonTaiyou/JefersonTaiyou" title="issues" alt="issues" width="115" height="28"/> 
 </a>
 <a href="https://github.com/JefersonTaiyou/JefersonTaiyou/network/members">
- <img src="https://img.shields.io/github/forks/JefersonTaiyou/JefersonTaiyou" title="forks" alt="forks" width="85" height="28"/> 
+ <img src="https://img.shields.io/github/forks/JefersonTaiyou/JefersonTaiyou" title="forks" alt="forks" width="80" height="28"/> 
 </a>
 <a href="https://github.com/JefersonTaiyou/JefersonTaiyou/stargazers">
- <img src="https://img.shields.io/github/stars/JefersonTaiyou/JefersonTaiyou" title="stars" alt="stars" width="85" height="28"/> 
+ <img src="https://img.shields.io/github/stars/JefersonTaiyou/JefersonTaiyou" title="stars" alt="stars" width="70" height="28"/> 
 </a><br>
  Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Jeferson! <a href="https://github.com/JefersonTaiyou">
     <img src="https://img.shields.io/github/followers/JefersonTaiyou?label=follow&style=social" height="22" title="Follow" align="center" alt="GitHub">
@@ -30,8 +30,8 @@
     </p>
 </details>
 
-[Read this page in English](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README-EN.md)<br>
-[Leia esta página em Português](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README.md)<br>
+**[Read this page in English](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README-EN.md)<br>
+[Leia esta página em Português](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README.md)<br>**
 
 &nbsp;&nbsp;&nbsp;I am a 3rd semester student of Digital Games at **Fatec Carapicuiba!**
 &nbsp;Passionate about the programming area since when I started my IT Technician at ITB.
@@ -43,9 +43,9 @@
 <a href="https://github.com/JefersonTaiyou/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a></a>
 <a href="https://mail.google.com/mail/u/0/"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
- - Profile [Linkedin]: (https://www.linkedin.com/in/jeferson-ss-junior)
+ - Profile [Linkedin]: (**https://www.linkedin.com/in/jeferson-ss-junior**)
 
- - Contact [Email]: (jeferson.taiyou@gmail.com)
+ - Contact [Email]: (**jeferson.taiyou@gmail.com**)
 
  - I love programming and am always willing to learn new technologies!
 
