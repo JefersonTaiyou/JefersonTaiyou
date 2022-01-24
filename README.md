@@ -45,9 +45,9 @@
 <a href="https://github.com/JefersonTaiyou/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a></a>
 <a href="https://mail.google.com/mail/u/0/"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
- - Perfil [Linkedin]: (https://www.linkedin.com/in/jeferson-ss-junior)
+ - Perfil [Linkedin]: **(https://www.linkedin.com/in/jeferson-ss-junior)**
 
- - Contato [Email]: (jeferson.taiyou@gmail.com)
+ - Contato [Email]: **(jeferson.taiyou@gmail.com)**
 
  - Amo programar e estou sempre disposto a aprender novas tecnologias !
 
