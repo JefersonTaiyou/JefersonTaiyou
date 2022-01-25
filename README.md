@@ -13,7 +13,7 @@
 </a></h1>
  
  <!-- http://github-readme-streak-stats.herokuapp.com/demo/  [Site para modificar a cor da tabela de Streak] -->
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="400px" width="350px" align="right" alt="JefersonTaiyou">
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="400px" width="300px" align="right" alt="JefersonTaiyou">
  
 <p align="left">
    <img title="Streak" alt="JefersonTaiyou's streak" src="http://github-readme-streak-stats.herokuapp.com?user=JefersonTaiyou&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="500px"/>
