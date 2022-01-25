@@ -53,7 +53,11 @@
 
 Atualmente focado no desenvolvimento de Games, porém tenho interesse em me tornar um desenvolvedor Full-Stack.
 
+<div align="center">
+ 
  ## ⚙️ &nbsp;Status GitHub
+ 
+</div>
 
 <div align="center">
   <a href="https://github.com/JefersonTaiyou">
@@ -61,9 +65,13 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&layout=compact&theme=github_dark"/></a>
 </div>
 
+<div align="center">
+ 
 ## 🛠 Ferramentas/Linguagens || &nbsp;STACKS 🛠 
-  
-<div style="display: inline_block">
+ 
+</div>
+ 
+<div style="display: inline_block" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" style="max-width: 100%;" width="40" height="40" align="middle"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" style="max-width: 100%;" width="40" height="40" align="middle"> 
