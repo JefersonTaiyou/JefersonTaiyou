@@ -52,18 +52,24 @@
  - I love programming and am always willing to learn new technologies!
 
 Currently focused on Game development, but I'm interested in becoming a Full-Stack developer.
-
+<div align="center">
+ 
  ## ⚙️ &nbsp; GitHub Stats
-
+ 
+</div>
 <div align="center">
   <a href="https://github.com/JefersonTaiyou">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JefersonTaiyou&show_icons=true&theme=github_dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&layout=compact&theme=github_dark"/></a>
 </div>
 
+<div align="center">
+ 
 ## 🛠 Tools/Languages || &nbsp;STACKS 🛠 
   
-<div style="display: inline_block">
+</div>
+
+<div style="display: inline_block" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" style="max-width: 100%;" width="40" height="40" align="middle"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" style="max-width: 100%;" width="40" height="40" align="middle"> 
