@@ -113,7 +113,6 @@ Currently focused on Game development, but I'm interested in becoming a Full-Sta
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JefersonTaiyou&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JefersonTaiyou&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JefersonTaiyou&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JefersonTaiyou&theme=github_dark" />
  
  <!--- https://github-profile-summary-cards.vercel.app/demo.html [Site para ver os temas do Profile Summary]--->
  
