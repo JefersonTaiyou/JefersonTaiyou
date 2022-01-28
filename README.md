@@ -62,7 +62,7 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
 <div align="center">
   <a href="https://github.com/JefersonTaiyou">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JefersonTaiyou&show_icons=true&theme=github_dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&layout=compact&theme=github_dark"/></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&layout=compact&langs_count=10&theme=github_dark"/></a>
 </div>
 
 <div align="center">
