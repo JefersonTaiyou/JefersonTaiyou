@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="150" height="28"/>
+&langs_count=10<h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="150" height="28"/>
 <a href="https://github.com/JefersonTaiyou/JefersonTaiyou/issues">
  <img src="https://img.shields.io/github/issues/JefersonTaiyou/JefersonTaiyou" title="issues" alt="issues" width="115" height="28"/> 
 </a>
@@ -60,7 +60,7 @@ Currently focused on Game development, but I'm interested in becoming a Full-Sta
 <div align="center">
   <a href="https://github.com/JefersonTaiyou">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JefersonTaiyou&show_icons=true&theme=github_dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&layout=compact&theme=github_dark"/></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonTaiyou&layout=compact&langs_count=10&theme=github_dark"/></a>
 </div>
 
 <div align="center">
