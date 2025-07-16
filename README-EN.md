@@ -35,9 +35,9 @@
 **[Read this page in English](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README-EN.md)<br>
 [Leia esta página em Português](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README.md)<br>**
 
-&nbsp;&nbsp;&nbsp;I am a 3rd semester student of Digital Games at **Fatec Carapicuiba!**
+&nbsp;&nbsp;&nbsp;I am a student of Arduino, targeted to **Robocup/OBR - Olimpíada Brasileira de Robótica!**
 &nbsp;Passionate about the programming area since when I started my IT Technician at ITB.
-<br>&nbsp;&nbsp;&nbsp;Currently improving my knowledge in the area every day, studying languages and frameworks such as **(HTML 5, CSS 3, JavaScript, Java, C#, Python, SQL, among others).**
+<br>&nbsp;&nbsp;&nbsp;Currently improving my knowledge in: **C++, Line Follow Code, Color Sensor Code, 3D Modeling, etc.**
 
 ## About Me
 
@@ -51,7 +51,7 @@
 
  - I love programming and am always willing to learn new technologies!
 
-Currently focused on Game development, but I'm interested in becoming a Full-Stack developer.
+Currently focused on Line Follow Robot, but I'm interested in becoming a Full-Stack developer.
 <div align="center">
  
  ## ⚙️ &nbsp; GitHub Stats
@@ -67,16 +67,18 @@ Currently focused on Game development, but I'm interested in becoming a Full-Sta
  
 ## 🛠 Tools/Languages || &nbsp;STACKS 🛠 
   
-</div>
-
+<!--- https://github.com/devicons/devicon/tree/master [Perfil com os icones SVG]--->
+ 
 <div style="display: inline_block" align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" title="Arduino" style="max-width: 100%;" width="40" height="40" align="middle"> 
+ 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" style="max-width: 100%;" width="40" height="40" align="middle"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" style="max-width: 100%;" width="40" height="40" align="middle"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="max-width: 100%;" width="40" height="40" align="middle">
  
-<img src="https://raw.githubusercontent.com/Harindulk/harindu.dev/main/assets/icons/unity.svg" alt="unity" title="Unity" style="max-width: 100%;" width="40" height="40" align="middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original-wordmark.svg" alt="Arduino" title="Arduino" style="max-width: 100%;" width="40" height="40" align="middle"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" style="max-width: 100%;" width="40" height="40" align="middle">
   
@@ -91,8 +93,6 @@ Currently focused on Game development, but I'm interested in becoming a Full-Sta
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" style="max-width: 100%;" width="40" height="40" align="middle">
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm" style="max-width: 100%;" width="40" height="40" align="middle">
-
-<img src="https://camo.githubusercontent.com/aa0e4ed5f01fb902f1405feb0a9baa285076a5b981e4323267c6b9977aa1d9fb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f76697375616c73747564696f5f636f64652f76697375616c73747564696f5f636f64652d69636f6e2e737667" alt="visualstudio_code-github-profile-awesome-beautiful" title="VSCode" style="max-width: 100%;" width="40" height="40" align="middle">
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".net" title=".NET" style="max-width: 100%;" width="40" height="40" align="middle">  
   
@@ -109,11 +109,7 @@ Currently focused on Game development, but I'm interested in becoming a Full-Sta
 --------------------------------------
 
 <div align="center">
- 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JefersonTaiyou&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JefersonTaiyou&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JefersonTaiyou&theme=github_dark" />
- 
+  
  <!--- https://github-profile-summary-cards.vercel.app/demo.html [Site para ver os temas do Profile Summary]--->
  
 ![Snake animation](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/output/github-contribution-grid-snake.svg)
