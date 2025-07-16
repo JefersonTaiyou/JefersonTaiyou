@@ -35,7 +35,7 @@
 **[Read this page in English](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README-EN.md)<br>
 [Leia esta página em Português](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README.md)<br>**
 
-&nbsp;&nbsp;&nbsp;Sou estudante de programação Arduino direcionado para **OBR - Olimpíada Brasileira de Robótica**
+&nbsp;&nbsp;&nbsp;Sou estudante de Arduino direcionado para **Robocup/OBR - Olimpíada Brasileira de Robótica**
 &nbsp;Apaixonado pela área de programação desde quando fiz meu Técnico em Informática no ITB.
 <br>&nbsp;&nbsp;&nbsp;Atualmente aprimorando meus conhecimentos em: **C++, Line Follow Code, Color Sensor Code, 3D Modeling, etc.**
 <br />
@@ -72,7 +72,7 @@ Atualmente focado no desenvolvimento Line Follow Robot, porém tenho interesse e
  
 </div>
 
-<!--- https://github.com/devicons/devicon/tree/master --->
+<!--- https://github.com/devicons/devicon/tree/master [Perfil com os icones SVG]--->
  
 <div style="display: inline_block" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" title="Arduino" style="max-width: 100%;" width="40" height="40" align="middle"> 
@@ -119,6 +119,8 @@ Atualmente focado no desenvolvimento Line Follow Robot, porém tenho interesse e
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JefersonTaiyou&theme=github_dark" />
 
 <h3> 🗃&nbsp; Minhas Contribuições : </h3>
+ 
+ <!--- https://github-profile-summary-cards.vercel.app/demo.html [Site para ver os temas do Profile Summary]--->
  
 ![Snake animation](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/output/github-contribution-grid-snake.svg)
  
