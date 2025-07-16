@@ -35,10 +35,10 @@
 **[Read this page in English](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README-EN.md)<br>
 [Leia esta página em Português](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/main/README.md)<br>**
 
-&nbsp;&nbsp;&nbsp;Sou estudante do 3º semestre de Jogos Digitais pela **Fatec Carapicuiba!**
+&nbsp;&nbsp;&nbsp;Sou estudante de programação Arduino direcionado para **OBR - Olimpíada Brasileira de Robótica**
 &nbsp;Apaixonado pela área de programação desde quando fiz meu Técnico em Informática no ITB.
-<br>&nbsp;&nbsp;&nbsp;Atualmente aprimorando meus conhecimentos na área a cada dia, estudando linguagens e frameworks tais como **(HTML 5, CSS 3, JavaScript, Java, C#, Python, SQL, entre outros).**
-<br /> &nbsp;&nbsp; **OBS:** Pretendo me desenvolver também nas áreas de **UI/UX/VFX**
+<br>&nbsp;&nbsp;&nbsp;Atualmente aprimorando meus conhecimentos em: **C++, Line Follow Code, Color Sensor Code, 3D Modeling, etc.**
+<br />
 
 ## Sobre mim
 
@@ -52,7 +52,7 @@
 
  - Amo programar e estou sempre disposto a aprender novas tecnologias !
 
-Atualmente focado no desenvolvimento de Games, porém tenho interesse em me tornar um desenvolvedor Full-Stack.
+Atualmente focado no desenvolvimento Line Follow Robot, porém tenho interesse em me tornar um desenvolvedor Full-Stack.
 
 <div align="center">
  
@@ -71,15 +71,19 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
 ## 🛠 Ferramentas/Linguagens || &nbsp;STACKS 🛠 
  
 </div>
+
+<!--- https://github.com/devicons/devicon/tree/master --->
  
 <div style="display: inline_block" align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" title="Arduino" style="max-width: 100%;" width="40" height="40" align="middle"> 
+ 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" style="max-width: 100%;" width="40" height="40" align="middle"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" style="max-width: 100%;" width="40" height="40" align="middle"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="max-width: 100%;" width="40" height="40" align="middle">
  
-<img src="https://raw.githubusercontent.com/Harindulk/harindu.dev/main/assets/icons/unity.svg" alt="unity" title="Unity" style="max-width: 100%;" width="40" height="40" align="middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original-wordmark.svg" alt="Arduino" title="Arduino" style="max-width: 100%;" width="40" height="40" align="middle"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" style="max-width: 100%;" width="40" height="40" align="middle">
   
@@ -94,8 +98,6 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" style="max-width: 100%;" width="40" height="40" align="middle">
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm" style="max-width: 100%;" width="40" height="40" align="middle">
-
-<img src="https://camo.githubusercontent.com/aa0e4ed5f01fb902f1405feb0a9baa285076a5b981e4323267c6b9977aa1d9fb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f76697375616c73747564696f5f636f64652f76697375616c73747564696f5f636f64652d69636f6e2e737667" alt="visualstudio_code-github-profile-awesome-beautiful" title="VSCode" style="max-width: 100%;" width="40" height="40" align="middle">
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".net" title=".NET" style="max-width: 100%;" width="40" height="40" align="middle">  
   
@@ -117,10 +119,6 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JefersonTaiyou&theme=github_dark" />
 
 <h3> 🗃&nbsp; Minhas Contribuições : </h3>
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=JefersonTaiyou&theme=github)
- 
- <!--- https://github-profile-summary-cards.vercel.app/demo.html [Site para ver os temas do Profile Summary]--->
  
 ![Snake animation](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/output/github-contribution-grid-snake.svg)
  
