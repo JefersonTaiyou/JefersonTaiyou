@@ -1,4 +1,4 @@
-&langs_count=10<h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="150" height="28"/>
+<h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="150" height="28"/>
 <a href="https://github.com/JefersonTaiyou/JefersonTaiyou/issues">
  <img src="https://img.shields.io/github/issues/JefersonTaiyou/JefersonTaiyou" title="issues" alt="issues" width="115" height="28"/> 
 </a>
